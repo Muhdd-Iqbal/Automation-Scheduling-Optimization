@@ -1,8 +1,9 @@
 # Optimization-Based-Automation-Scheduling-via-Mathematical-Modeling
 --------------------------
-Problem Statement:
 
-!Notes: The following cases were created based on assumed scenarios for the purpose of model development.
+### Notes: The following cases were developed from assumed scenarios and serve as dummy cases for demonstration purposes.
+
+Problem Statement:
 
 There are 45 employees working as production operators to produce lamp. Each day, the company has a production target that is divided between weekdays and weekends with the following details:
   - The target on weekday is to complete 6000 units.
