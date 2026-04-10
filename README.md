@@ -18,12 +18,13 @@ Therefore, the HR and production supervision teams require assistance in generat
   - Shift 1 = 07:00 - 15:00
   - Shift 2 = 12:00 - 20:00
   - Shift 3 = 16:00 - 24:00
-- Each employee should work at least one shift per day.
+- Each employee should work at least one shift per day and one shift per week.
 - Each employee should work only for 5 days each week and should have 2 days week off.
 - No employees should work more than 5 consecutive days during any period.
-- Each employee only work with 1 shift type every week.
 - If employees get night shift (shift 3), employees do not work in morning shift in the next day or in next shift.
-- Employees can request annual leave.
+- Employees can request annual leave for a reason.
+
+These cases will generate a 35 day (5 week) schedule for each employee based on the constraints above
 
   ----------------------------------------------------
 Methodology:
@@ -45,7 +46,10 @@ Result:
 - A dataframe that contains information abut employees including shift type they work, days off, etc.
 
   Overview of the results:
-<img width="1234" height="435" alt="image" src="https://github.com/user-attachments/assets/096f922a-a6e1-418f-8c2c-ade574010776" />
+  <img width="228" height="279" alt="image" src="https://github.com/user-attachments/assets/9d94a5f5-cdd9-4809-b770-69beb9857d7e" />
+
+<img width="250" height="271" alt="image" src="https://github.com/user-attachments/assets/93108d1b-0ad2-41b3-94d5-974c47d143e9" />
+
 
 you can rename the column name such as date, days of the week and others based on your requirements
 
