@@ -21,10 +21,9 @@ Therefore, the HR and production supervision teams require assistance in generat
 - Each employee should work at least one shift per day.
 - Each employee should work only for 5 days each week and should have 2 days week off.
 - No employees should work more than 5 consecutive days during any period.
-- No employees should work with pattern "Day Off, Working, Day Off" consecutive days.
 - Each employee only work with 1 shift type every week.
 - If employees get night shift (shift 3), employees do not work in morning shift in the next day or in next shift.
-- If employees request leave in the specific day, the total working day per week will reduce with total days requested for leave.
+- Employees can request annual leave.
 
   ----------------------------------------------------
 Methodology:
