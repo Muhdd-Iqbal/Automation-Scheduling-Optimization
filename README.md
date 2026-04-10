@@ -34,6 +34,7 @@ Methodology:
 - Convert the problem statement into mathematical equation
 
   <img width="465" height="52" alt="image" src="https://github.com/user-attachments/assets/9aa962aa-0d49-465b-977c-c06e03b373bd" />
+  
   Use `minimum optimization method`
 
 - The program is success if the status = "Optimal"
@@ -44,6 +45,7 @@ Methodology:
 
 Result:
 - A dataframe that contains information abut employees including shift type they work, days off, etc.
+
 
   Overview of the results:
   <img width="228" height="279" alt="image" src="https://github.com/user-attachments/assets/9d94a5f5-cdd9-4809-b770-69beb9857d7e" />
