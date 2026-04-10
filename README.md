@@ -2,6 +2,8 @@
 --------------------------
 Problem Statement:
 
+!Notes: The following cases were created based on assumed scenarios for the purpose of model development.
+
 There are 45 employees working as production operators to produce lamp. Each day, the company has a production target that is divided between weekdays and weekends with the following details:
   - The target on weekday is to complete 6000 units.
   - The target on weekend is to complete 5000 units.
@@ -24,7 +26,6 @@ Therefore, the HR and production supervision teams require assistance in generat
 - If employees get night shift (shift 3), employees do not work in morning shift in the next day or in next shift.
 - If employees request leave in the specific day, the total working day per week will reduce with total days requested for leave.
 
-!Notes: The following cases were created based on assumed scenarios for the purpose of model development.
   ----------------------------------------------------
 Methodology:
 - Install pulp library in your jupyter notebook
