@@ -43,12 +43,10 @@ Methodology:
 
 ----------------------------
 
-Result:
-- A dataframe that contains information abut employees including shift type they work, days off, etc.
+Overview of the results:
 
-
-  Overview of the results:
   <img width="228" height="279" alt="image" src="https://github.com/user-attachments/assets/9d94a5f5-cdd9-4809-b770-69beb9857d7e" />
+  
 
 <img width="250" height="271" alt="image" src="https://github.com/user-attachments/assets/93108d1b-0ad2-41b3-94d5-974c47d143e9" />
 
