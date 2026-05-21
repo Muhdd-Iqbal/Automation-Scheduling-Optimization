@@ -1,7 +1,7 @@
 # Optimization-Based-Automation-Scheduling-via-Mathematical-Modeling
 --------------------------
 
-### Notes: The following cases were developed from assumed scenarios and serve as dummy cases for demonstration purposes.
+### Note: The following cases were developed from assumed scenarios and serve as dummy cases for demonstration purposes.
 
 ---
 Problem Statement:
