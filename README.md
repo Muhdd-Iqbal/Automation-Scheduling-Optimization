@@ -29,6 +29,10 @@ Therefore, the HR and production supervision teams require assistance in generat
 These cases will generate a 35 day (5 week) schedule for each employee based on the constraints above
 
 ---
+
+The model also incorporates binary decision variables (0/1), allowing the optimization process to enforce conditional scheduling rules while keeping the formulation linear.
+
+---
 Methodology:
 - Install pulp library in your jupyter notebook
   <img width="682" height="197" alt="image" src="https://github.com/user-attachments/assets/118f74f7-82ee-40cc-ac34-a5d76e8e8338" />
