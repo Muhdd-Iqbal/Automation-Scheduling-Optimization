@@ -34,8 +34,7 @@ The model also incorporates binary decision variables (0/1), allowing the optimi
 
 ---
 Methodology:
-- Install pulp library in your jupyter notebook
-  <img width="682" height="197" alt="image" src="https://github.com/user-attachments/assets/118f74f7-82ee-40cc-ac34-a5d76e8e8338" />
+- Install pulp library in your jupyter notebook (LP/MILP Problem)
 
 - Convert the problem statement into mathematical equation
 
