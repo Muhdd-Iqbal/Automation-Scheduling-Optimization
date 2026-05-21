@@ -3,6 +3,7 @@
 
 ### Notes: The following cases were developed from assumed scenarios and serve as dummy cases for demonstration purposes.
 
+---
 Problem Statement:
 
 There are 45 employees working as production operators to produce lamp. Each day, the company has a production target that is divided between weekdays and weekends with the following details:
@@ -27,7 +28,7 @@ Therefore, the HR and production supervision teams require assistance in generat
 
 These cases will generate a 35 day (5 week) schedule for each employee based on the constraints above
 
-  ----------------------------------------------------
+---
 Methodology:
 - Install pulp library in your jupyter notebook
   <img width="682" height="197" alt="image" src="https://github.com/user-attachments/assets/118f74f7-82ee-40cc-ac34-a5d76e8e8338" />
@@ -42,7 +43,7 @@ Methodology:
 
   <img width="225" height="93" alt="image" src="https://github.com/user-attachments/assets/dc095f91-5463-4950-94bf-429359bb0d6f" />
 
-----------------------------
+---
 
 Overview of the results:
 
@@ -54,7 +55,7 @@ Overview of the results:
 
 you can rename the column name such as date, days of the week and others based on your requirements
 
---------------------------------------------------------------------
+---
 Tools:
 - Jupyter Notebook / Google Colab
 - Python
