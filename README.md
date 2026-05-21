@@ -59,4 +59,6 @@ you can rename the column name such as date, days of the week and others based o
 Tools:
 - Jupyter Notebook / Google Colab
 - Python
-- pulp, pandas, and numpy library
+- PuLP
+- Pandas
+- Numpy
